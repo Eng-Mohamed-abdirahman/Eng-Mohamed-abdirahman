@@ -1,18 +1,17 @@
 # Hi 👋, I'm Mohamed-Abdirahman  
-## 🚀 Full-Stack Developer | Mobile App Developer | AI & DevOps Enthusiast  
+## 🚀 Full-Stack Developer 
 
-### Hi, I’m Eng Mohamed!  
-I specialize in building scalable web and mobile apps, integrating AI and DevOps practices.  
-Passionate about coding and always exploring new technologies.  
-Check out my repositories and let’s connect! 🚀  
+
 
 ---
 
 ## 🔥 Tech Stack  
-**Frontend:** HTML, CSS, JavaScript, Tailwind CSS, React.js  
-**Backend:** Node.js (Upcoming)  
-**Databases:** SQL, NoSQL databases (Upcoming)  
-**Mobile App Development:** React Native (Upcoming)  
+**Frontend:** HTML, CSS, JavaScript, Tailwind CSS, React.js 
+**Databases:** SQL Database (mySQL), NoSQL Database (MangoDB)  
+**Backend:** Node.js (learning)  
+**Mobile App Development:** React Native (learning) 
+
+
 
 ---
 
