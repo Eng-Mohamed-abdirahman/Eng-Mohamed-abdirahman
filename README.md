@@ -7,8 +7,11 @@
 
 ## 🔥 Tech Stack  
 **Frontend:** HTML, CSS, JavaScript, Tailwind CSS, React.js 
+
 **Databases:** SQL Database (mySQL), NoSQL Database (MangoDB)  
-**Backend:** Node.js (learning)  
+
+**Backend:** Node.js & Express
+
 **Mobile App Development:** React Native (learning) 
 
 
