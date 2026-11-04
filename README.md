@@ -23,7 +23,6 @@
 
 I'm a **Full-stack Software Engineer & AI Engineer** based in **Borama, Somaliland**. I build web and mobile products end to end, from the database and APIs to polished interfaces, and I integrate large language models into real products for teachers, businesses and health organizations.
 
-- 🔭 Currently building **MindOS**, a personal operating system for planning, habits, money and learning
 - 🤖 Focused on **AI/LLM integration**: turning models into features people actually use
 - 🌍 Shipping software for local businesses, schools and health institutes in the Horn of Africa
 - 🌱 Always learning: system design, performance, and clean, testable code
