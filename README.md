@@ -3,7 +3,7 @@
 # Hi, I'm Mohamed Abdirahman 👋
 
 <a href="https://github.com/Eng-Mohamed-abdirahman">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full-stack+Software+Engineer;AI+Engineer;Building+web+%26+mobile+products+end+to+end" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full-stack+Software+Engineer;AI+Engineer" alt="Typing intro" />
 </a>
 
 <p>
@@ -21,12 +21,6 @@
 
 I'm a **Full-stack Software Engineer & AI Engineer** based in **Borama, Somaliland**. I build web and mobile products end to end, from the database and APIs to polished interfaces, and I integrate large language models into real products for teachers, businesses and health organizations.
 
-- 🔭 Currently building **MindOS**, a personal operating system for planning, habits, money and learning
-- 🤖 Focused on **AI/LLM integration**: turning models into features people actually use
-- 🌍 Shipping software for local businesses, schools and health institutes in the Horn of Africa
-- 🌱 Always learning: system design, performance, and clean, testable code
-- 💬 Ask me about **React, Next.js, Node.js, TypeScript, Flutter and AI apps**
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/mohamed-abdirahman-mohamed-8985682b6/)
 
 ---
 
@@ -47,7 +41,7 @@ I'm a **Full-stack Software Engineer & AI Engineer** based in **Borama, Somalila
 **Mobile**
 
 <img src="https://skillicons.dev/icons?i=flutter,react" alt="Mobile" />
-<sub>Flutter · React Native</sub>
+
 
 **AI & Tools**
 
@@ -66,7 +60,7 @@ I'm a **Full-stack Software Engineer & AI Engineer** based in **Borama, Somalila
 
 ### 📈 Stats & Top Languages
 
-<img height="180" src="https://github-stats-extended.vercel.app/api?username=Eng-Mohamed-abdirahman&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&show=prs_merged,prs_merged_percentage,reviews" alt="GitHub stats" />
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=Eng-Mohamed-abdirahman&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&show=prs_merged,prs_merged_percentage" alt="GitHub stats" />
 <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Eng-Mohamed-abdirahman&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Top languages" />
 
 ### 🔥 Contribution Streak
