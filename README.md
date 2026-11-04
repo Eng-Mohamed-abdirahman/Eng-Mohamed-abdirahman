@@ -11,8 +11,6 @@
   <img src="https://img.shields.io/badge/Borama,_Somaliland-1f2328?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Eng-Mohamed-abdirahman&style=flat-square&color=2F81F7&label=Profile+views" alt="Profile views" />
-
 </div>
 
 ---
