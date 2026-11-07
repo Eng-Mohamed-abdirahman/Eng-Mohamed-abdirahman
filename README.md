@@ -10,10 +10,10 @@
   <a href="https://engmohamed.tech"><img src="https://img.shields.io/badge/Portfolio-engmohamed.tech-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:contact@engmohamed.tech"><img src="https://img.shields.io/badge/Email-contact@engmohamed.tech-D14836?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/mohamed-abdirahman-mohamed-8985682b6/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <img src="https://img.shields.io/badge/Borama,_Somaliland-1f2328?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <!-- <img src="https://img.shields.io/badge/Borama,_Somaliland-1f2328?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" /> -->
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Eng-Mohamed-abdirahman&style=flat-square&color=2F81F7&label=Profile+views" alt="Profile views" />
+<!-- <img src="https://komarev.com/ghpvc/?username=Eng-Mohamed-abdirahman&style=flat-square&color=2F81F7&label=Profile+views" alt="Profile views" /> -->
 
 </div>
 
